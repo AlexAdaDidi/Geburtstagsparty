@@ -1,0 +1,6 @@
+h1 { color:red; background-color:yellow;}
+h2 { color:red; background-color:yellow;}
+span { color:green; background-color:blue;}
+span:hover { color:blue; background-color:green;}
+a { color:green; background-color:yellow;}
+a:hover { color:green; background-color:blue;}
